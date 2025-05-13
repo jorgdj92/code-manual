@@ -1,4 +1,4 @@
-# Instalation
+# Installation
 ## Linux Mac
 Doc https://www.rust-lang.org
 
